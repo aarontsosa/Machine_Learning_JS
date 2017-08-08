@@ -1,0 +1,24 @@
+{
+  "name": "Machine_Learning_JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarontsosa/Machine_Learning_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarontsosa/Machine_Learning_JS/issues"
+  },
+  "homepage": "https://github.com/aarontsosa/Machine_Learning_JS#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.4.2"
+  }
+}
